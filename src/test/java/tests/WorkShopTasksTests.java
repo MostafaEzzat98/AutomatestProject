@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import pages.HomePage;
 
-public class WorkShopTasks {
+public class WorkShopTasksTests {
 
     private static WebDriver driver;
 
